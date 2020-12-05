@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-reservation",
+  "version": "1.0.0",
+  "description": "Building a Node / Express based web application for handling reservation requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjacoughlin/Restaurant-Reservation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjacoughlin/Restaurant-Reservation/issues"
+  },
+  "homepage": "https://github.com/mrjacoughlin/Restaurant-Reservation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
